@@ -1,7 +1,10 @@
-# H1 title
+# Add image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-## H2 title
-### H3 title
-#### H4 title
-##### H5 title
-###### H6 title
+# Add code
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
